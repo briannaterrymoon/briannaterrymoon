@@ -21,3 +21,4 @@ my forte is memorising information quickly.
 </div>
 
 
+If we strive to see the very end from the beginning, we will never move forward. It is important to take the first step, and it is important to be sure that it is the right one. - Fazil Iskander, Rabbits and Murderers
