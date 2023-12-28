@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  I love snow! I used to eat a lot of snow and ice when I was a kid))))) 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/6YNgoTEPs6vZe/giphy.gif" width="200"/>
+</div>
 
-<!--
-**briannaterrymoon/briannaterrymoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+____________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+my forte is memorising information quickly. 
+
+<div id="badges">
+</a>
+<a href="https://discord.com/channels/@tinaminaline">
+<img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
+<a href="https://twitter.com/AmandaB87350724">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</div>
